@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Danish Jawad
 
-🎓 CS Student | 💻 Software Developer | 🧠 Problem Solver | 📊 Java & SQL Enthusiast
+🎓 CS Student | 💻 Software Developer | 📊 Java & SQL Enthusiast
 ---
 
 ### 🔧 Tech Stack
