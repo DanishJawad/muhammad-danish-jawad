@@ -4,9 +4,9 @@
 ---
 
 ### 🔧 Tech Stack
-- **Languages:** C, C++, SQL
+- **Languages:** Java, Java Fx, SQL, Python, C
 - **Database:** SQL Server, MySQL
-- **Tools:** Git, VS Code, SSMS
+- **Tools:** Git, Visual Studio Code, IntelliJ IDEA, SQL Server Management Studio (SSMS)
 
 ---
 
