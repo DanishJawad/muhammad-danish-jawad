@@ -26,6 +26,6 @@
 
 ### 📫 Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/muhammad-danish-jawad-73b241366)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-danish-jawad-73b241366)
 - [GitHub](https://github.com/danishjawad)
 - Email: m.danishjawad@gmail.com
