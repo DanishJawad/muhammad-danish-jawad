@@ -2,7 +2,7 @@
 
 Software Engineering student at COMSATS University Lahore (7th semester). I build Python backends and LLM applications: FastAPI services, RAG pipelines and LangChain agents.
 
-Open to AI engineering and backend internships, and freelance work.
+Open to AI engineering and backend roles, and freelance work.
 
 ## Projects
 
